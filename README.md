@@ -4,7 +4,7 @@ The project was developed as a part of my real freelance work and published with
 
 The mini-app is designed as PoC to help e-commerce platforms optimize product pricing and personalize user experiences.  
 
-It can predict predict future sales based on historical data, competitor pricing and seasonality using time series models, dynamically compute real-time optimal pricing. Profiling is done by clustering users based on behavior tracking (clicks, time on page, purchase history). Users are segmented for personalized recommendations using collaborative filtering techniques.
+It can predict future sales based on historical data, competitor pricing and seasonality using time series models, dynamically compute real-time optimal pricing. Profiling is done by clustering users based on behavior tracking (clicks, time on page, purchase history). Users are segmented for personalized recommendations using collaborative filtering techniques.
 
 ## Main files
 - **config.py** - configuration parameters for all modules  
